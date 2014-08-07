@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>Census 2000 TIGER</origin>
+				<pubdate>January 1, 2000</pubdate>
+				<title>camra_mrgis_citylimits_fl_2000</title>
+				<geoform>vector digital data</geoform>
+				<pubinfo>
+					<pubplace>Palatka, Florida</pubplace>
+					<publish>St. Johns River Water Management District</publish>
+				</pubinfo>
+				<onlink>http://www.sjrwmd.com/programs/plan_monitor/gis/docs/themes.html</onlink>
+				<smcilnkh>false</smcilnkh>
+				<ftname Sync="TRUE">citylimits_fl_2000_poly</ftname></citeinfo>
+		</citation>
+		<descript>
+			<abstract>This GIS data set represents city boundaries information based on 2000 Census TIGER file entities. The extent is the entire state of Florida.  Places reported in the decennial census data include census-designated places, consolidated cities, and incorporated places.</abstract>
+			<purpose>This data set represents city boundaries for general mapping and cartographic purposes.</purpose>
+			<supplinf>Prior to July 1, 2004, the Fish and Wildlife Research Institute (FWRI) was known as the Florida Marine Research Institute (FMRI). The institute name has not been changed in historical data sets or references to work completed by the Florida Marine Research Institute. The institute name has been changed in references to ongoing research, new research, and contact information.</supplinf>
+			<langdata Sync="TRUE">en</langdata></descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>20000101</caldate>
+					<time>Unknown</time>
+				</sngdate>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>None planned</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>-87.393785</westbc>
+				<eastbc>-79.987774</eastbc>
+				<northbc>31.150787</northbc>
+				<southbc>24.425636</southbc>
+			</bounding>
+		</spdom>
+		<keywords>
+			<theme>
+				<themekt>FWRItheme</themekt>
+				<themekey>GIS</themekey>
+				<themekey>mapping</themekey>
+				<themekey>bounds</themekey>
+				<themekey>boundaries</themekey>
+			</theme>
+			<theme>
+				<themekt>ISO 19115 Topic Category</themekt>
+				<themekey>geoscientificInformation</themekey>
+			</theme>
+			<place>
+				<placekt>FWRIplace</placekt>
+				<placekey>Florida</placekey>
+				<placekey>statewide</placekey>
+				<placekey>east coast of Florida</placekey>
+				<placekey>west coast of Florida</placekey>
+				<placekey>north Florida</placekey>
+				<placekey>northeast Florida</placekey>
+				<placekey>northwest Florida</placekey>
+				<placekey>south Florida</placekey>
+				<placekey>southeast Florida</placekey>
+				<placekey>southwest Florida</placekey>
+			</place>
+			<place>
+				<placekt>Florida Waterbodies</placekt>
+			</place>
+			<place>
+				<placekt>Florida Counties</placekt>
+			</place>
+			<place>
+				<placekt>Water Management Districts</placekt>
+				<placekey>Northwest Florida Water Management District</placekey>
+				<placekey>South Florida Water Management District</placekey>
+				<placekey>Southwest Florida Water Management District</placekey>
+				<placekey>St. Johns River Water Management District</placekey>
+				<placekey>Suwannee River Water Management District</placekey>
+			</place>
+			<place>
+				<placekt>FWC Region</placekt>
+				<placekey>FWC Region-North Central</placekey>
+				<placekey>FWC Region-Northeast</placekey>
+				<placekey>FWC Region-Northwest</placekey>
+				<placekey>FWC Region-South</placekey>
+				<placekey>FWC Region-Southwest</placekey>
+			</place>
+		</keywords>
+		<accconst>Available. All data must be verified by Principal Investigator or Group Database Analyst prior to release.  It is strongly recommended that this data is directly acquired from FWC and not indirectly through other sources which may have changed the data in some way. FWC makes no claims as to the data's suitability for other purposes.</accconst>
+		<useconst>
+The St. Johns River Water Management District prepares and uses information for its own purposes and this information may not be suitable for other purposes.  This information is provided "as is". Further documentation of this data can be obtained by contacting: St. Johns River Water Management District, Division of Integrated Application Systems, Post Office Box 1429, Palatka, Florida, 32178-1429, (386) 329-4500.
+
+Acknowledgement of the FWC-FWRI (Florida Fish and Wildlife Conservation Commission-Fish and Wildlife Research Institute) as the data source, and SJRWMD as the originator, would be appreciated in any products developed from these data, and such acknowledgment as is standard for citation and legal practices for data source is expected by users of this data.  Please cite the original metadata when using portions of the record to create a similar record of slightly altered data, such as reprojection. If any data are modified or adjusted, please share the edited information with FWC. Users should be aware that comparison with other data sets for the same area from other time periods may be inaccurate due to inconsistencies resulting from changes in mapping conventions, data collection, and computer processes over time. FWC shall not be liable for improper or incorrect use of this data. These data are not legal documents and are not to be used as such.  This is not a survey data set and should not be utilized as such. These data are not to be used for navigation.
+</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>SJRWMD (St. Johns River Water Management District)</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing address</addrtype>
+					<address>
+St. Johns River Water Management District
+P.O. Box 1429
+</address>
+					<city>Palatka</city>
+					<state>FL</state>
+					<postal>32178-1429</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>386-329-4500, 800-451-7106, Suncom: 860-4500</cntvoice>
+				<cnttdd>TDD: 386-329-4450, TDD Suncom: 860-4450</cnttdd>
+				<cntemail>gis_support@sjrwmd.com</cntemail>
+				<smcoemhy>false</smcoemhy>
+			</cntinfo>
+		</ptcontac>
+		<datacred>SJRWMD provided the data and metadata.</datacred>
+		<secinfo>
+			<secsys>FMRI-DC</secsys>
+			<secclass>Available</secclass>
+			<sechandl>Available</sechandl>
+		</secinfo>
+		<native>Microsoft Windows 2000 Version 5.1 (Build 2600) Service Pack 1; ESRI ArcCatalog 8.3.0.800</native>
+		<smbrowse>false</smbrowse>
+		<smtype>1</smtype>
+		<natvform Sync="TRUE">Shapefile</natvform></idinfo>
+	<dataqual>
+		<attracc>
+			<attraccr>All entities and attributes have been identified and documented.  FMRI has made no effort to verify the accuracy of the attributes.</attraccr>
+		</attracc>
+		<logic>These data appear topologically and logically consistent, although not tested by FMRI.</logic>
+		<complete>This data set is complete for all census-designated places, consolidated cities, and incorporated places in Florida.</complete>
+		<posacc>
+			<horizpa>
+				<horizpar>Census TIGER files are generally considered no more accurate than 1:100000 scale data.  FMRI has made no effort to verify the positional accuracy of these data.</horizpar>
+			</horizpa>
+		</posacc>
+		<lineage>
+			<procstep>
+				<procdesc>
+Download U.S. Census Bureau's 2000 TIGER dataset for all counties in Florida (county-based zip files) from website: http://www2.census.gov/geo/tiger/tgrcd108/FL/
+
+Zip files were decompressed using the following command:
+uzip *.zip -d &lt;exp_dir&gt;
+</procdesc>
+				<procdate>2003</procdate>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>SJRWMD (St. Johns River Water Management District)</cntorg>
+						</cntorgp>
+						<cntaddr>
+							<addrtype>mailing address</addrtype>
+							<address>
+St. Johns River Water Management District
+P.O. Box 1429
+</address>
+							<city>Palatka</city>
+							<state>FL</state>
+							<postal>32178-1429</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>386-329-4500, 800-451-7106, Suncom: 860-4500</cntvoice>
+						<cnttdd>TDD: 386-329-4450, TDD Suncom: 860-4450</cnttdd>
+						<cntemail>gis_support@sjrwmd.com</cntemail>
+						<smcoemhy>false</smcoemhy>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>An AML (TIGERARC) was created to convert individual TIGER files to polygon coverage (in geographic coordinate system).  This AML also generated related TYPEC INFO tables (place information for city boundaries).</procdesc>
+				<procdate>2003</procdate>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>SJRWMD (St. Johns River Water Management District)</cntorg>
+						</cntorgp>
+						<cntaddr>
+							<addrtype>mailing address</addrtype>
+							<address>
+St. Johns River Water Management District
+P.O. Box 1429
+</address>
+							<city>Palatka</city>
+							<state>FL</state>
+							<postal>32178-1429</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>386-329-4500, 800-451-7106, Suncom: 860-4500</cntvoice>
+						<cnttdd>TDD: 386-329-4450, TDD Suncom: 860-4450</cnttdd>
+						<cntemail>gis_support@sjrwmd.com</cntemail>
+						<smcoemhy>false</smcoemhy>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>APPENDINFO.AML was created to append the records in the TYPEC INFO tables.</procdesc>
+				<procdate>2003</procdate>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>SJRWMD (St. Johns River Water Management District)</cntorg>
+						</cntorgp>
+						<cntaddr>
+							<addrtype>mailing address</addrtype>
+							<address>
+St. Johns River Water Management District
+P.O. Box 1429
+</address>
+							<city>Palatka</city>
+							<state>FL</state>
+							<postal>32178-1429</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>386-329-4500, 800-451-7106, Suncom: 860-4500</cntvoice>
+						<cnttdd>TDD: 386-329-4450, TDD Suncom: 860-4450</cnttdd>
+						<cntemail>gis_support@sjrwmd.com</cntemail>
+						<smcoemhy>false</smcoemhy>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>Covdiso.aml was created to dissolve polygons with same PLACE value (for all coverages in FL).</procdesc>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>SJRWMD (St. Johns River Water Management District)</cntorg>
+						</cntorgp>
+						<cntaddr>
+							<addrtype>mailing address</addrtype>
+							<address>
+St. Johns River Water Management District
+P.O. Box 1429
+</address>
+							<city>Palatka</city>
+							<state>FL</state>
+							<postal>32178-1429</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>386-329-4500, 800-451-7106, Suncom: 860-4500</cntvoice>
+						<cnttdd>TDD: 386-329-4450, TDD Suncom: 860-4450</cnttdd>
+						<cntemail>gis_support@sjrwmd.com</cntemail>
+						<smcoemhy>false</smcoemhy>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>VBA code was created to load records from individual coverages with Place value &lt;&gt; 0  into an SDE feature class (from original geographic coordinate system to UTM Harn projection)</procdesc>
+				<procdate>2003</procdate>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>SJRWMD (St. Johns River Water Management District)</cntorg>
+						</cntorgp>
+						<cntaddr>
+							<addrtype>mailing address</addrtype>
+							<address>
+St. Johns River Water Management District
+P.O. Box 1429
+</address>
+							<city>Palatka</city>
+							<state>FL</state>
+							<postal>32178-1429</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>386-329-4500, 800-451-7106, Suncom: 860-4500</cntvoice>
+						<cnttdd>TDD: 386-329-4450, TDD Suncom: 860-4450</cnttdd>
+						<cntemail>gis_support@sjrwmd.com</cntemail>
+						<smcoemhy>false</smcoemhy>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>SDE feature class and TYPEC table was joined by field PLACE value</procdesc>
+				<procdate>2003</procdate>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>SJRWMD (St. Johns River Water Management District)</cntorg>
+						</cntorgp>
+						<cntaddr>
+							<addrtype>mailing address</addrtype>
+							<address>
+St. Johns River Water Management District
+P.O. Box 1429
+</address>
+							<city>Palatka</city>
+							<state>FL</state>
+							<postal>32178-1429</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>386-329-4500, 800-451-7106, Suncom: 860-4500</cntvoice>
+						<cnttdd>TDD: 386-329-4450, TDD Suncom: 860-4450</cnttdd>
+						<cntemail>gis_support@sjrwmd.com</cntemail>
+						<smcoemhy>false</smcoemhy>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>FMRI received these data from SJRWMD in January 2004.  FMRI rePROJECTed these data to Albers NAD83 and loaded into the SDE database.</procdesc>
+				<procdate>01/2004</procdate>
+				<proccont>
+					<cntinfo>
+						<cntperp>
+							<cntper>GISLibrarian</cntper>
+							<cntorg>FWC-FWRI (Florida Fish and Wildlife Conservation Commission-Fish and Wildlife Research Institute)</cntorg>
+						</cntperp>
+						<cntpos>GIS Data Librarian</cntpos>
+						<cntaddr>
+							<addrtype>mailing and physical address</addrtype>
+							<address>
+Fish and Wildlife Research Institute
+100 Eighth Avenue Southeast
+</address>
+							<city>St. Petersburg</city>
+							<state>Florida</state>
+							<postal>33701</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>727-896-8626</cntvoice>
+						<cntfax>727-893-1679</cntfax>
+						<cntemail>GISLibrarian@MyFWC.com</cntemail>
+						<hours>8:00 a.m.-5:00 p.m. Eastern time</hours>
+						<smcoemhy>false</smcoemhy>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep><procdesc Sync="TRUE">Metadata imported.</procdesc><srcused Sync="TRUE">C:\DOCUME~1\CHRIS~1.DAU\LOCALS~1\Temp\xmlA2.tmp</srcused><date Sync="TRUE">20060505</date><time Sync="TRUE">15092200</time></procstep><procstep><procdesc Sync="TRUE">Dataset moved.</procdesc><srcused Sync="TRUE">G:\GIS_DATA\BASE_DATA_STATE\New Folder\citylimits_fl_2000_poly</srcused><procdate Sync="TRUE">20100826</procdate><proctime Sync="TRUE">11312800</proctime></procstep></lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="citylimits_fl_2000_poly">
+				<sdtstype>G-polygon</sdtstype>
+				<ptvctcnt>888</ptvctcnt>
+				<smcaptur>false</smcaptur>
+			</sdtsterm>
+			<esriterm Name="citylimits_fl_2000_poly"><efeatyp Sync="TRUE">Simple</efeatyp><efeageom Sync="TRUE">Polygon</efeageom><esritopo Sync="TRUE">FALSE</esritopo><efeacnt Sync="TRUE">0</efeacnt><spindex Sync="TRUE">FALSE</spindex><linrefer Sync="TRUE">FALSE</linrefer></esriterm></ptvctinf>
+		<smcaptur>false</smcaptur>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<planar>
+				<planci>
+					<plance>Coordinate Pair</plance>
+					<coordrep>
+						<absres>0.001</absres>
+						<ordres>0.001</ordres>
+					</coordrep>
+					<plandu>meters</plandu>
+				</planci>
+				<mapproj><mapprojn Sync="TRUE">Albers Conical Equal Area</mapprojn><albers><stdparll Sync="TRUE">24.000000</stdparll><stdparll Sync="TRUE">31.500000</stdparll><longcm Sync="TRUE">-84.000000</longcm><latprjo Sync="TRUE">24.000000</latprjo><feast Sync="TRUE">400000.000000</feast><fnorth Sync="TRUE">0.000000</fnorth></albers></mapproj></planar>
+			<geodetic>
+				<horizdn>North American Datum of 1983</horizdn>
+				<ellips>Geodetic Reference System 80</ellips>
+				<semiaxis>6378137</semiaxis>
+				<denflat>298.257</denflat>
+			</geodetic>
+			<cordsysn><geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn><projcsn Sync="TRUE">PCS_Albers</projcsn></cordsysn></horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="citylimits_fl_2000_poly">
+			<enttyp>
+				<enttypl>fmri.citylimits_fl_2000_poly</enttypl>
+				<enttypt Sync="TRUE">Feature Class</enttypt><enttypc Sync="TRUE">0</enttypc></enttyp>
+			<attr><attrlabl Sync="TRUE">FID</attrlabl><attalias Sync="TRUE">FID</attalias><attrtype Sync="TRUE">OID</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Internal feature number.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom></attrdomv></attr><attr>
+				<attrlabl>DATAYR</attrlabl>
+				<attrdef>Census year from which the data are gathered.</attrdef>
+				<smcaptur>false</smcaptur>
+				<attalias Sync="TRUE">DATAYR</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">4</attwidth></attr>
+			<attr>
+				<attrlabl>FIPSCC</attrlabl>
+				<attrdef>FIPS 55 Class Code Definitions</attrdef>
+				<smcaptur>false</smcaptur>
+				<attalias Sync="TRUE">FIPSCC</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">2</attwidth></attr>
+			<attr>
+				<attrlabl>LSADC</attrlabl>
+				<attrdef>Legal/Statistical Area Description Codes</attrdef>
+				<attrdomv>
+					<edom>
+						<edomv>57</edomv>
+						<edomvd>Census designated place - statistical equivalent of a place in all 50 States, Guam, Northern Mariana Islands, and U.S. Virgin Islands</edomvd>
+					</edom>
+					<edom>
+						<edomv>58</edomv>
+						<edomvd>City - Incorporated place in 49 States (not Hawaii) and District of Columbia 60 town incorporated places in 30 States and the U.S. Virgin Islands.</edomvd>
+					</edom>
+					<edom>
+						<edomv>60</edomv>
+						<edomvd>Town - Incorporated place in 20 States and the U.S. Virgin Islands.</edomvd>
+					</edom>
+					<edom>
+						<edomv>61</edomv>
+						<edomvd>Village - Incorporated place in 20 States and traditional place in American Samoa.</edomvd>
+					</edom>
+				</attrdomv>
+				<smcaptur>false</smcaptur>
+				<attalias Sync="TRUE">LSADC</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">2</attwidth></attr>
+			<attr>
+				<attrlabl>NAME</attrlabl>
+				<attrdef>Name of Geographic Area</attrdef>
+				<smcaptur>false</smcaptur>
+				<attalias Sync="TRUE">NAME</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">60</attwidth></attr>
+			<attr>
+				<attrlabl>PLACE</attrlabl>
+				<attrdef>Place Code</attrdef>
+				<smcaptur>false</smcaptur>
+				<attalias Sync="TRUE">PLACE</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">10</attwidth></attr>
+			<attr>
+				<attrlabl>PLACEDC</attrlabl>
+				<attrdef>Place Description Code</attrdef>
+				<smcaptur>false</smcaptur>
+				<attalias Sync="TRUE">PLACEDC</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">1</attwidth></attr>
+			<attr>
+				<attrlabl>SHAPE</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<smcaptur>false</smcaptur>
+				<attalias Sync="TRUE">Shape</attalias><attrtype Sync="TRUE">Geometry</attrtype><attwidth Sync="TRUE">0</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr>
+				<attrlabl>WMDS</attrlabl>
+				<attrdef>The water management district that serves the city.</attrdef>
+				<smcaptur>false</smcaptur>
+				<attalias Sync="TRUE">WMDS</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">30</attwidth></attr>
+			<attr><attrlabl Sync="TRUE">SHAPE_AREA</attrlabl><attalias Sync="TRUE">SHAPE_AREA</attalias><attrtype Sync="TRUE">Float</attrtype><attwidth Sync="TRUE">19</attwidth><attrdef Sync="TRUE">Area of feature in internal units squared.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Positive real numbers that are automatically generated.</udom></attrdomv><atnumdec Sync="TRUE">11</atnumdec></attr><attr><attrlabl Sync="TRUE">SHAPE_LEN</attrlabl><attalias Sync="TRUE">SHAPE_LEN</attalias><attrtype Sync="TRUE">Float</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">11</atnumdec></attr></detailed>
+		<overview>
+			<eaover>These data contain attributes indicating city name as well as the census code attributes.</eaover>
+		</overview>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntperp>
+					<cntper>GISLibrarian</cntper>
+					<cntorg>FWC-FWRI (Florida Fish and Wildlife Conservation Commission-Fish and Wildlife Research Institute)</cntorg>
+				</cntperp>
+				<cntpos>GIS Data Librarian</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>
+Fish and Wildlife Research Institute
+100 Eighth Avenue Southeast
+</address>
+					<city>St. Petersburg</city>
+					<state>Florida</state>
+					<postal>33701</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>727-896-8626</cntvoice>
+				<cntfax>727-893-1679</cntfax>
+				<cntemail>GISLibrarian@MyFWC.com</cntemail>
+				<hours>8:00 a.m.-5:00 p.m. Eastern time</hours>
+				<smcoemhy>false</smcoemhy>
+			</cntinfo>
+		</distrib>
+		<distliab>This data set is in the public domain, and the recipient may not assert any proprietary rights thereto nor represent it to anyone as other than a FWC-FWRI produced data set; it is provided "as-is" without warranty of any kind, including, but not limited to, the implied warranties of merchantability and fitness for a particular purpose. The user assumes all responsibility for the accuracy and suitability of this data set for a specific application. In no event will the staff of the Fish and Wildlife Research Institute be liable for any damages, including lost profits, lost savings, or other incidental or consequential damages arising from the use of or the inability to use this data set.</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<formname>SHP</formname>
+					<transize Sync="TRUE">0.000</transize><dssize Sync="TRUE">0.000</dssize></digtinfo>
+			</digform>
+			<digform>
+				<digtinfo>
+					<formname>SHP</formname>
+					<asciistr>
+						<casesens>true</casesens>
+					</asciistr>
+					<transize Sync="TRUE">0.000</transize><dssize Sync="TRUE">0.000</dssize></digtinfo>
+			</digform>
+			<fees>None. However, persons or organizations requesting information must provide transfer media if FTP is not available and must pay express shipping costs if express shipping is required.</fees>
+			<ordering>Contact GIS Librarian by e-mail, telephone, or letter explaining which products are needed and providing a brief description of how the products will be used. Also, provide name and address of the person or organization requesting the products.</ordering>
+			<turnarnd>Usually within 10 business days, although, complex requests may take longer</turnarnd>
+			<smdistty>1</smdistty>
+		</stdorder>
+		<custom>Contact GIS Librarian</custom>
+		<smdistnm>Available without restriction</smdistnm>
+	</distinfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>SJRWMD (St. Johns River Water Management District)</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing address</addrtype>
+					<address>
+St. Johns River Water Management District
+P.O. Box 1429
+</address>
+					<city>Palatka</city>
+					<state>FL</state>
+					<postal>32178-1429</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>386-329-4500, 800-451-7106, Suncom: 860-4500</cntvoice>
+				<cnttdd>TDD: 386-329-4450, TDD Suncom: 860-4450</cnttdd>
+				<cntemail>gis_support@sjrwmd.com</cntemail>
+				<smcoemhy>false</smcoemhy>
+			</cntinfo>
+		</distrib>
+		<resdesc>Downloadable Data</resdesc>
+		<distliab>The St. Johns River Water Management District prepares and uses information for its own purposes and this information may not be suitable for other purposes.  This information is provided "as is". Further documentation of this data can be obtained by contacting: St. Johns River Water Management District, Division of Integrated Application Systems, Post Office Box 1429, Palatka, Florida, 32178-1429, (386) 329-4500.</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<formname>ARCE</formname>
+					<formvern>v8.2</formvern>
+					<formspec>ARC/INFO Export Format - UNIX Compression</formspec>
+					<filedec>Winzip</filedec>
+					<asciistr>
+						<casesens>true</casesens>
+					</asciistr>
+					<transize Sync="TRUE">0.000</transize><dssize Sync="TRUE">0.000</dssize></digtinfo>
+				<digtopt>
+					<smdistty>1</smdistty>
+				</digtopt>
+			</digform>
+			<fees>$40 per CD</fees>
+			<ordering>There is no charge for downloading data from the DISTRICT web site at http://www.sjrwmd.com. Data can be ordered on CD-ROM as instructed on the web site.</ordering>
+			<turnarnd>10 working days</turnarnd>
+			<smdistty>1</smdistty>
+		</stdorder>
+		<custom>
+1. Use the DISTRICT Web site: http://www.sjrwmd.com to download data, or
+2. Call or email to organizations listed under Distributor.
+Spatial data are in ARC/INFO interchange formats.
+</custom>
+		<techpreq>
+Internet access /
+Unzip, Winzip /
+To import coverage: ESRI ArcInfo workstation, ArcView 3.2X Import 7.1 Utility, or ArcToolBox. /
+To use coverage: ESRI ArcInfo, ArcView, ArcGIS 8.2, or ArcExplorer; AutoCAD 2002 Map or Land Development Desktop.
+</techpreq>
+		<smdistnm>SJRWMD</smdistnm>
+	</distinfo>
+	<metainfo>
+		<metd>20040109</metd>
+		<metrd>20060503</metrd>
+		<metfrd></metfrd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>SJRWMD (St. Johns River Water Management District)</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing address</addrtype>
+					<address>
+St. Johns River Water Management District
+P.O. Box 1429
+</address>
+					<city>Palatka</city>
+					<state>FL</state>
+					<postal>32178-1429</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>386-329-4500, 800-451-7106, Suncom: 860-4500</cntvoice>
+				<cnttdd>TDD: 386-329-4450, TDD Suncom: 860-4450</cnttdd>
+				<cntemail>gis_support@sjrwmd.com</cntemail>
+				<smcoemhy>false</smcoemhy>
+			</cntinfo>
+		</metc>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<mettc>local time</mettc>
+		<metac>No restrictions on metadata.</metac>
+		<metuc>Metadata must be distributed with the data set.</metuc>
+		<metsi>
+			<metscs>FMRI-MC</metscs>
+			<metsc>Available</metsc>
+			<metshd>Metadata must be distributed with the data set.</metshd>
+		</metsi>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+			<smmrexth>0</smmrexth>
+		</metextns>
+		<langmeta Sync="TRUE">en</langmeta><metextns><onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink><metprof Sync="TRUE">ESRI Metadata Profile</metprof></metextns></metainfo>
+	<Esri><CreaDate>20140731</CreaDate><CreaTime>10474000</CreaTime><SyncOnce>FALSE</SyncOnce><SyncDate>20100112</SyncDate><SyncTime>11570600</SyncTime><ModDate>20100112</ModDate><ModTime>11570600</ModTime><DataProperties><lineage><Process ToolSource="C:\ArcGIS\ArcToolbox\Toolboxes\Conversion Tools.tbx\FeatureClassToFeatureClass" Date="20100112" Time="115707">FeatureClassToFeatureClass "Database Connections\Connection to gleason.sde\FMRI.bounds_albers\FMRI.citylimits_fl_2000_poly" C:\Craig\__Kiermaier---\MRGISdlupdate_2010-01 citylimits_fl_2000_poly.shp # "PLACE 'PLACE' true true false 4 Long 0 10 ,First,#,Database Connections\Connection to gleason.sde\FMRI.bounds_albers\FMRI.citylimits_fl_2000_poly,PLACE,-1,-1;DATAYR 'DATAYR' true true false 2 Short 0 4 ,First,#,Database Connections\Connection to gleason.sde\FMRI.bounds_albers\FMRI.citylimits_fl_2000_poly,DATAYR,-1,-1;FIPSCC 'FIPSCC' true true false 2 Text 0 0 ,First,#,Database Connections\Connection to gleason.sde\FMRI.bounds_albers\FMRI.citylimits_fl_2000_poly,FIPSCC,-1,-1;PLACEDC 'PLACEDC' true true false 1 Text 0 0 ,First,#,Database Connections\Connection to gleason.sde\FMRI.bounds_albers\FMRI.citylimits_fl_2000_poly,PLACEDC,-1,-1;LSADC 'LSADC' true true false 2 Text 0 0 ,First,#,Database Connections\Connection to gleason.sde\FMRI.bounds_albers\FMRI.citylimits_fl_2000_poly,LSADC,-1,-1;NAME 'NAME' true true false 60 Text 0 0 ,First,#,Database Connections\Connection to gleason.sde\FMRI.bounds_albers\FMRI.citylimits_fl_2000_poly,NAME,-1,-1;WMDS 'WMDS' true true false 30 Text 0 0 ,First,#,Database Connections\Connection to gleason.sde\FMRI.bounds_albers\FMRI.citylimits_fl_2000_poly,WMDS,-1,-1;SHAPE_AREA 'SHAPE_AREA' false false true 0 Double 0 0 ,First,#,Database Connections\Connection to gleason.sde\FMRI.bounds_albers\FMRI.citylimits_fl_2000_poly,SHAPE.AREA,-1,-1;SHAPE_LEN 'SHAPE_LEN' false false true 0 Double 0 0 ,First,#,Database Connections\Connection to gleason.sde\FMRI.bounds_albers\FMRI.citylimits_fl_2000_poly,SHAPE.LEN,-1,-1" # C:\Craig\__Kiermaier---\MRGISdlupdate_2010-01\citylimits_fl_2000_poly.shp</Process></lineage></DataProperties><ArcGISFormat>1.0</ArcGISFormat><ArcGISstyle>XTools Pro Metadata</ArcGISstyle></Esri><dataIdInfo><envirDesc Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.0.1770</envirDesc><dataLang><languageCode Sync="TRUE" value="en"></languageCode></dataLang><idCitation><resTitle Sync="TRUE">citylimits_fl_2000_poly</resTitle><presForm><PresFormCd Sync="TRUE" value="005"></PresFormCd></presForm></idCitation><spatRpType><SpatRepTypCd Sync="TRUE" value="001"></SpatRepTypCd></spatRpType></dataIdInfo><mdLang><languageCode Sync="TRUE" value="en"></languageCode></mdLang><mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName><mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer><mdChar><CharSetCd Sync="TRUE" value="004"></CharSetCd></mdChar><mdHrLv><ScopeCd Sync="TRUE" value="005"></ScopeCd></mdHrLv><mdHrLvName Sync="TRUE">dataset</mdHrLvName><distInfo><distributor><distorTran><onLineSrc><orDesc Sync="TRUE">002</orDesc><linkage Sync="TRUE">file://\\DAVIDRU\G$\GIS_DATA\BASE_DATA_STATE\BOUNDARY\citylimits_fl_2000_poly</linkage><protocol Sync="TRUE">Local Area Network</protocol></onLineSrc><transSize Sync="TRUE">0.000</transSize></distorTran><distorFormat><formatName Sync="TRUE">Shapefile</formatName></distorFormat></distributor></distInfo><refSysInfo><RefSystem><refSysID><identCode Sync="TRUE">PCS_Albers</identCode></refSysID></RefSystem></refSysInfo><spatRepInfo><VectSpatRep><topLvl><TopoLevCd Sync="TRUE" value="001"></TopoLevCd></topLvl><geometObjs Name="citylimits_fl_2000_poly"><geoObjTyp><GeoObjTypCd Sync="TRUE" value="001"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">0</geoObjCnt></geometObjs></VectSpatRep></spatRepInfo><mdDateSt Sync="TRUE">20100112</mdDateSt></metadata>
